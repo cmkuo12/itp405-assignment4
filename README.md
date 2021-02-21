@@ -1,5 +1,5 @@
 # ITP 405 Assignment 4  
-1. Primary Goal: To facilitate the exchange of secondhand textbooks within a university campus, avoiding shipping costs  
+1. Primary Goal: To facilitate the direct exchange of secondhand textbooks within a university campus, avoiding shipping costs  
 2. Primary Audience: University students who want to buy and sell used textbooks for their classes  
 3. CRUD Operations:  
     - Create:  
